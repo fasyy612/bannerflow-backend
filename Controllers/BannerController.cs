@@ -18,18 +18,17 @@ namespace BannerflowApi.Controllers
         public BannerController(BannerContext context)
         {
             _context = context;
-
-            if (_context.Banners.Count() == 0)
-            {
-                //_context.Banners.Add(new Banner { Html = "<>" });
-                _context.SaveChanges();
-            }
         }  
 
+/*
+ * Page to view the html within banner
+ * accessed by attaching content/{banner_id} at the end of URL
+ */
         [HttpGet("content/{id}")]
         public IActionResult Index(long id)
         {
             var banner = _context.Banners.FirstOrDefault(b => b.Id == id);
+            ViewBag.Message = "Banner ID: " + id.ToString();
             if (banner != null) {
                 ViewBag.HtmlStr = banner.Html;
             } else {

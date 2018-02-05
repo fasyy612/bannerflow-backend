@@ -1,0 +1,5 @@
+/home/hayne/BannerflowApi
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=BannerflowApi
+--content-root=/home/hayne/BannerflowApi
+--file=/home/hayne/BannerflowApi/Views/Banner/Index.cshtml

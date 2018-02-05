@@ -1,3 +1,6 @@
+/*
+  In-memory Database context to store/manage banners
+ */
 using Microsoft.EntityFrameworkCore;
 
 namespace BannerflowApi.Models

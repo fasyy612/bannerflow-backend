@@ -1,0 +1,10 @@
+/home/hayne/BannerflowApi/obj/Debug/netcoreapp2.0/BannerflowApi.csproj.CoreCompileInputs.cache
+/home/hayne/BannerflowApi/obj/Debug/netcoreapp2.0/BannerflowApi.AssemblyInfoInputs.cache
+/home/hayne/BannerflowApi/obj/Debug/netcoreapp2.0/BannerflowApi.AssemblyInfo.cs
+/home/hayne/BannerflowApi/bin/Debug/netcoreapp2.0/BannerflowApi.deps.json
+/home/hayne/BannerflowApi/bin/Debug/netcoreapp2.0/BannerflowApi.runtimeconfig.json
+/home/hayne/BannerflowApi/bin/Debug/netcoreapp2.0/BannerflowApi.runtimeconfig.dev.json
+/home/hayne/BannerflowApi/bin/Debug/netcoreapp2.0/BannerflowApi.dll
+/home/hayne/BannerflowApi/bin/Debug/netcoreapp2.0/BannerflowApi.pdb
+/home/hayne/BannerflowApi/obj/Debug/netcoreapp2.0/BannerflowApi.dll
+/home/hayne/BannerflowApi/obj/Debug/netcoreapp2.0/BannerflowApi.pdb
